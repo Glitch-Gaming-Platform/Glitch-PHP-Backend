@@ -9,6 +9,7 @@
         "ext-json": "*",
         "adam-paterson/oauth2-stripe": "^2.0",
         "bensampo/laravel-enum": "^6.1",
+        "encore/laravel-admin": "^1.8",
         "google/apiclient": "^2.12.1",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.19",
